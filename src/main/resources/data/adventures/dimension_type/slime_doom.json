@@ -1,7 +1,5 @@
 {
   "ultrawarm": true,
-  // If true, zombie piglins will spawn on portal,
-  // if false, clocks and compasses spin randomly.
   "natural": true,
   "piglin_safe": false,
   "respawn_anchor_works": false,
